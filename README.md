@@ -1,7 +1,7 @@
 # Music-Database
 
 In this MySQL project, we wrote the schema to implement a relational database which holds music, albums, artists, playists, users, and ratings.
-We then implemented queries to be made on the database, which can be viewed in assignment4.ipynb, where the database and queries are tested 
+We then implemented queries to be made on the database, which can be viewed in hw4.ipynb, where the database and queries are tested 
 using Python.
 
 The schema is as follows:
