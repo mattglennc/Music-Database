@@ -1,0 +1,50 @@
+id,song_title,artist_id,album_id,album_release,single_release
+1,Toys in the Attic,1,1,1975-04-08,
+2,Walk This Way,1,1,1975-04-08,
+3,Space Oddity,2,2,1969-11-14,
+4,Under Pressure,2,,,1981-10-26
+5,After All,2,3,1970-11-04,
+6,Bohemian Rhapsody,3,4,1975-11-21,
+7,Sweet Lady,3,4,1975-11-21,
+8,The Bare Necessities,4,5,1968-05-01,
+9,What a Wonderful World,4,,,1967-09-01
+10,Soul Kitchen,6,6,1967-01-04,
+11,People Are Strange,6,7,1967-09-25,
+12,Empty Sky,7,8,1969-06-06,
+13,Your Song,7,9,1970-04-10,
+14,Come Down In Time,7,10,1970-10-30,
+15,Tiny Dancer,7,11,1971-11-05,
+16,Harmony,7,12,1973-10-05,
+17,Pinky,7,13,1974-06-28,
+18,Can You Feel The Love Tonight,7,,,2007-01-01
+19,I Can Help,5,14,1975-05-07,
+20,Moody Blue,5,15,1977-07-19,
+21,Don't Be Cruel,5,,,1956-02-02
+22,Stompin' at the Savoy,8,16,1954-01-01,
+23,Out There,9,17,2017-06-02,
+24,Refrigerator Door,9,18,2019-11-08,
+25,The Way She Rides,9,19,2014-02-04,
+26,Danger,10,21,2014-09-19,
+27,War of Hormone,10,21,2014-09-19,
+28,Blood Sweat & Tears,10,22,2017-02-13,
+29,Good Day,10,23,2016-09-07,
+30,Crystal Snow,10,24,2018-04-04,
+31,Filter,10,25,2020-02-21,
+32,Permission to Dance,10,,,2021-07-09
+33,PA PA YA!!,11,26,2019-10-08,
+34,KARATE,11,27,2016-03-29,
+35,Line!,11,28,2014-02-26,
+36,Bathtub,12,29,1993-11-23,
+37,Ride 4 Me,12,30,1996-11-12,
+38,Wrong Idea,12,31,2000-12-19,
+39,Go Away,12,31,2000-12-19,
+40,Drop It Like It's Hot,12,,,2004-09-27
+41,Pero Ya No,13,33,2020-02-29,
+42,TRELLAS,13,34,2020-11-27,
+43,Caro,13,32,2018-12-24,
+44,Love Will Keep Us Together,14,35,1975-05-23,
+45,Song of Joy,14,36,1976-05-27,
+46,Brandy (You're a Fine Girl),15,37,1972-06-06,
+47,driver's license,16,,,2021-01-08
+48,déjà vu,16,,,2021-04-01
+49,good 4 u,16,,,2021-05-14
